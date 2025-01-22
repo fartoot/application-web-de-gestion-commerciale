@@ -1,14 +1,10 @@
 # Application Web de Gestion Commerciale
 
-## Description
+### Description
 
 Cette application web a été développée dans le cadre d'un projet de fin d'études (PFE) par une équipe de trois étudiants pour une agence marocaine. Elle vise à moderniser et à automatiser les tâches de gestion commerciale, incluant la création de devis et factures, la gestion des clients, des services, des projets, et bien plus encore. 
 
 L'objectif principal est d'offrir un outil intuitif, sécurisé et performant pour optimiser le temps et les ressources du gérant de l'agence.
-
----
-
-### Dashboard Web/Mobile
 
 | Dashboard Web | Dashboard Mobile |
 |--------------|------------------|
